@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pulsar on Page des sciences et des informations de science</title>
+    <link>/categories/pulsar/</link>
+    <description>Recent content in pulsar on Page des sciences et des informations de science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Aug 2020 05:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/pulsar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pourquoi les Pulsars brillent ?🤔🤔</title>
+      <link>/pulsars-0/</link>
+      <pubDate>Wed, 12 Aug 2020 05:00:00 +0000</pubDate>
+      
+      <guid>/pulsars-0/</guid>
+      <description>Pourquoi les Pulsars brillent ???
+Les scientifiques ont résolu l&amp;rsquo;énigme des Pulsars.</description>
+    </item>
+    
+  </channel>
+</rss>
