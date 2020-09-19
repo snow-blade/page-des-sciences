@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Search Result on Page des sciences et des informations de science</title>
-    <link>/search/</link>
+    <link>https://page-des-sciences.vercel.app/search/</link>
     <description>Recent content in Search Result on Page des sciences et des informations de science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/search/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://page-des-sciences.vercel.app/search/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

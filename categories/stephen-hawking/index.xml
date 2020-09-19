@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stephen Hawking on Page des sciences et des informations de science</title>
-    <link>/categories/stephen-hawking/</link>
+    <link>https://page-des-sciences.vercel.app/categories/stephen-hawking/</link>
     <description>Recent content in Stephen Hawking on Page des sciences et des informations de science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Aug 2020 05:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/stephen-hawking/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://page-des-sciences.vercel.app/categories/stephen-hawking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Théorie du Multivers</title>
-      <link>/my-awesome-blog-post-3/</link>
+      <link>https://page-des-sciences.vercel.app/my-awesome-blog-post-3/</link>
       <pubDate>Tue, 11 Aug 2020 05:00:00 +0000</pubDate>
       
-      <guid>/my-awesome-blog-post-3/</guid>
+      <guid>https://page-des-sciences.vercel.app/my-awesome-blog-post-3/</guid>
       <description>Stephen William Hawking est l&amp;rsquo;un des physiciens, cosmologues et astrophysiciens anglais les plus influents et les plus célèbres, avec plus de trois douzaines de prix scientifiques et médailles.</description>
     </item>
     

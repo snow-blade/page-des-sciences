@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Page des sciences et des informations de science</title>
-    <link>/author/</link>
+    <link>https://page-des-sciences.vercel.app/author/</link>
     <description>Recent content in Authors on Page des sciences et des informations de science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://page-des-sciences.vercel.app/author/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Freeman Irabaruta</title>
-      <link>/author/freeman/</link>
+      <link>https://page-des-sciences.vercel.app/author/freeman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/freeman/</guid>
+      <guid>https://page-des-sciences.vercel.app/author/freeman/</guid>
       <description>Developpeur et ecrivain technique</description>
     </item>
     
     <item>
       <title>Freeman Irabaruta</title>
-      <link>/author/mark-dinn/</link>
+      <link>https://page-des-sciences.vercel.app/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/mark-dinn/</guid>
+      <guid>https://page-des-sciences.vercel.app/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Jitimay Josue Josh</title>
-      <link>/author/josh/</link>
+      <link>https://page-des-sciences.vercel.app/author/josh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/josh/</guid>
+      <guid>https://page-des-sciences.vercel.app/author/josh/</guid>
       <description>Chercheur dans le domaine des sciences et de l&amp;rsquo;astrophysique</description>
     </item>
     
